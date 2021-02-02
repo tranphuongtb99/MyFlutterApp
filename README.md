@@ -1,6 +1,9 @@
 # my_first_flutter_app
 
 A new Flutter application I build.
+# User guide
+
+You clone my project to your local computer. You connect to your devices (smartphone) through USB or use Android Emulator in Android Studio but I recommend smartphone and then run main.dart in file "lib".
 
 ## Getting Started
 
